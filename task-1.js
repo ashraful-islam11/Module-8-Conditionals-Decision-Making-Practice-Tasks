@@ -1,3 +1,5 @@
+    // todo:       topic: Take two variables price1 and price2, and compare them using all comparison operators :
+
 // practice task: 1. 
 let prise1 = 97;
 let prise2 = 66;
